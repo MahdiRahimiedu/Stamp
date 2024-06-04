@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Stamp.Site
+build_property.RootNamespace = Stamp.Site
+build_property.ProjectDir = F:\Repository\09-Stamp\Stamp.Site\Stamp.Site\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Repository\09-Stamp\Stamp.Site\Stamp.Site
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMaintenances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWludGVuYW5jZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMaintenances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWludGVuYW5jZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMaintenances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWludGVuYW5jZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMaintenances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWludGVuYW5jZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMaintenances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWludGVuYW5jZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMakers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWtlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMakers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWtlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMakers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWtlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMakers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWtlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampMakers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBNYWtlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampOutputs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBPdXRwdXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampOutputs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBPdXRwdXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampOutputs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBPdXRwdXRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampOutputs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBPdXRwdXRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampOutputs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBPdXRwdXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampResults/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBSZXN1bHRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampResults/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBSZXN1bHRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampResults/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBSZXN1bHRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampResults/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBSZXN1bHRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/StampResults/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhbXBSZXN1bHRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Repository/09-Stamp/Stamp.Site/Stamp.Site/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-no6ma4n1x5
