@@ -30,8 +30,10 @@ namespace Stamp.Site.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(StampResult stampResult)
+        public IActionResult Create(StampResult stampResult , IFormFile? img)
         {
+            stampResult.StampImage = img == null ? null : ConvertFileBytes(img);
+
             _context.StampResults.Add(stampResult);
             _context.SaveChanges();
 
@@ -45,8 +47,10 @@ namespace Stamp.Site.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, StampResult stampResult)
+        public IActionResult Edit(int id, StampResult stampResult,IFormFile? img)
         {
+            stampResult.StampImage = img == null ? null : ConvertFileBytes(img);
+
             _context.StampResults.Update(stampResult);
             _context.SaveChanges();
             return RedirectToAction("Index");

@@ -45,7 +45,17 @@
             @Html.DisplayNameFor(model => model.StampImage)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.StampImage)
+            @{
+                if (Model.StampImage != null)
+                {
+                    string imageBase64 = Convert.ToBase64String(Model.StampImage);
+
+                    string x = "data: image / png; base64," + imageBase64;
+
+                    <img src="@string.Format(x)" width="100">
+                }
+
+            }
         </dd>
     </dl>
 </div>

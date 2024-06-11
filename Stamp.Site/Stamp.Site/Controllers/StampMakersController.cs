@@ -30,8 +30,10 @@ namespace Stamp.Site.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(StampMaker stampMaker)
+        public IActionResult Create(StampMaker stampMaker, IFormFile? img)
         {
+            stampMaker.ConfirmationReceipt = img == null ? null : ConvertFileBytes(img);
+
             _context.StampMakers.Add(stampMaker);
             _context.SaveChanges();
 
@@ -45,8 +47,10 @@ namespace Stamp.Site.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, StampMaker stampMaker)
+        public IActionResult Edit(int id, StampMaker stampMaker, IFormFile? img)
         {
+            stampMaker.ConfirmationReceipt = img == null ? null : ConvertFileBytes(img);
+
             _context.StampMakers.Update(stampMaker);
             _context.SaveChanges();
             return RedirectToAction("Index");

@@ -27,7 +27,17 @@
             @Html.DisplayNameFor(model => model.ConfirmationReceipt)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ConfirmationReceipt)
+            @{
+                if (Model.ConfirmationReceipt != null)
+                {
+                    string imageBase64 = Convert.ToBase64String(Model.ConfirmationReceipt);
+
+                    string x = "data: image / png; base64," + imageBase64;
+
+                    <img src="@string.Format(x)" width="100">
+                }
+                        
+            }
         </dd>
     </dl>
 </div>
